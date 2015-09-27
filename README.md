@@ -1,6 +1,4 @@
-# umm-6.github.io
-Live site at 
+# umm-6
+Live site at http://oh-umm.github.io/umm-6.
 
-Before doing the stuff on that link below, do `git remote add <name-of-remote> <url-of-remote>`.
-
-Look at this to figure out "resyncing" with the upstream repo: https://help.github.com/articles/syncing-a-fork/
+Push to `gh-pages` branch **instead** of `master`. There is intentionally no `master` branch for this repository.
